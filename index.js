@@ -138,6 +138,10 @@ let xhttp =new XMLHttpRequest();
      getData.catch(err =>{
          console.log('error!')
      })
+   
+
+     
+     
      
 
 
